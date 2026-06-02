@@ -1,4 +1,4 @@
-# 🚀 Spark Declarative Pipelines (SDP) & Databricks Lakeflow — Master Class Reference Notes & Interview Guide
+# 🚀 Spark Declarative Pipelines (SDP) & Databricks Lakeflow
 
 Welcome to your personalized **Spark Declarative Pipelines (SDP)** and **Databricks Lakeflow** master reference guide. 
 
